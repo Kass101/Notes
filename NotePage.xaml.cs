@@ -68,7 +68,7 @@ namespace WpfApp1
 
         private void rep_Click(object sender, RoutedEventArgs e)
         {
-            Process.Start(new ProcessStartInfo("https://github.com/Kass101/Notes") { UseShellExecute = true });
+            Process.Start(new ProcessStartInfo("https://github.com/Kass101/Notes.git") { UseShellExecute = true });
         }
     }
 }
