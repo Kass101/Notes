@@ -91,3 +91,34 @@ C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\WpfApp
 C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\WpfApp1.csproj.CopyComplete
 C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\WpfApp1.exe
 C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\WpfApp1.pdb
+C:\Users\Анастасия\Desktop\note\bin\Release\dbnote.db
+C:\Users\Анастасия\Desktop\note\bin\Release\WpfApp1.exe.config
+C:\Users\Анастасия\Desktop\note\bin\Release\WpfApp1.exe
+C:\Users\Анастасия\Desktop\note\bin\Release\WpfApp1.pdb
+C:\Users\Анастасия\Desktop\note\bin\Release\EntityFramework.dll
+C:\Users\Анастасия\Desktop\note\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Анастасия\Desktop\note\bin\Release\System.Data.SQLite.dll
+C:\Users\Анастасия\Desktop\note\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Анастасия\Desktop\note\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Анастасия\Desktop\note\bin\Release\EntityFramework.xml
+C:\Users\Анастасия\Desktop\note\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Анастасия\Desktop\note\bin\Release\System.Data.SQLite.xml
+C:\Users\Анастасия\Desktop\note\obj\Release\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\note\obj\Release\AddNote.g.cs
+C:\Users\Анастасия\Desktop\note\obj\Release\EditNote.g.cs
+C:\Users\Анастасия\Desktop\note\obj\Release\MainWindow.g.cs
+C:\Users\Анастасия\Desktop\note\obj\Release\NotePage.g.cs
+C:\Users\Анастасия\Desktop\note\obj\Release\App.g.cs
+C:\Users\Анастасия\Desktop\note\obj\Release\WpfApp1_MarkupCompile.cache
+C:\Users\Анастасия\Desktop\note\obj\Release\WpfApp1_MarkupCompile.lref
+C:\Users\Анастасия\Desktop\note\obj\Release\AddNote.baml
+C:\Users\Анастасия\Desktop\note\obj\Release\EditNote.baml
+C:\Users\Анастасия\Desktop\note\obj\Release\MainWindow.baml
+C:\Users\Анастасия\Desktop\note\obj\Release\NotePage.baml
+C:\Users\Анастасия\Desktop\note\obj\Release\WpfApp1.g.resources
+C:\Users\Анастасия\Desktop\note\obj\Release\WpfApp1.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\note\obj\Release\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\note\obj\Release\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\note\obj\Release\WpfApp1.csproj.CopyComplete
+C:\Users\Анастасия\Desktop\note\obj\Release\WpfApp1.exe
+C:\Users\Анастасия\Desktop\note\obj\Release\WpfApp1.pdb
