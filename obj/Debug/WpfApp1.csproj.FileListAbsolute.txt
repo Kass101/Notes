@@ -1,0 +1,149 @@
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\bin\Debug\dbnote.db
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\obj\Debug\AddEdit1.g.cs
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\obj\Debug\AddEdit1.baml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\obj\Debug\General.g.cs
+C:\Users\Анастасия\Desktop\Notes\WpfApp1\obj\Debug\General.baml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\obj\Debug\WpfApp1.exe
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\obj\Debug\WpfApp1.pdb
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\obj\Debug\MainWindow.g.cs
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\obj\Debug\App.g.cs
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\bin\Debug\dbnote.db
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\bin\Debug\WpfApp1.exe.config
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\bin\Debug\WpfApp1.exe
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\bin\Debug\WpfApp1.pdb
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\bin\Debug\EntityFramework.dll
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\bin\Debug\System.Data.SQLite.dll
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\bin\Debug\EntityFramework.xml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\bin\Debug\System.Data.SQLite.xml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\obj\Debug\MainWindow.baml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\obj\Debug\WpfApp1.g.resources
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\obj\Debug\NotePage.g.cs
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 — копия\obj\Debug\NotePage.baml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Debug\dbnote.db
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Debug\WpfApp1.exe.config
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Debug\WpfApp1.exe
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Debug\WpfApp1.pdb
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Debug\EntityFramework.dll
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Debug\System.Data.SQLite.dll
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Debug\EntityFramework.xml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Debug\System.Data.SQLite.xml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Debug\MainWindow.g.cs
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Debug\NotePage.g.cs
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Debug\App.g.cs
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Debug\MainWindow.baml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Debug\NotePage.baml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Debug\WpfApp1.g.resources
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Debug\WpfApp1.exe
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Debug\WpfApp1.pdb
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Debug\EditNote.g.cs
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Debug\EditNote.baml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Debug\AddNote.g.cs
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Debug\AddNote.baml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Debug\dbnote.db
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Debug\WpfApp1.exe.config
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Debug\WpfApp1.exe
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Debug\WpfApp1.pdb
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Debug\EntityFramework.dll
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Debug\System.Data.SQLite.dll
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Debug\EntityFramework.xml
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Debug\System.Data.SQLite.xml
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Debug\AddNote.g.cs
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Debug\EditNote.g.cs
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Debug\MainWindow.g.cs
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Debug\NotePage.g.cs
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Debug\App.g.cs
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Debug\AddNote.baml
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Debug\EditNote.baml
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Debug\MainWindow.baml
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Debug\NotePage.baml
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Debug\WpfApp1.g.resources
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Debug\WpfApp1.exe
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Debug\WpfApp1.pdb
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Debug\dbnote.db
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Debug\WpfApp1.exe.config
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Debug\WpfApp1.exe
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Debug\WpfApp1.pdb
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Debug\EntityFramework.dll
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Debug\System.Data.SQLite.dll
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Debug\EntityFramework.xml
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Debug\System.Data.SQLite.xml
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Debug\AddNote.g.cs
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Debug\EditNote.g.cs
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Debug\MainWindow.g.cs
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Debug\NotePage.g.cs
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Debug\App.g.cs
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Debug\AddNote.baml
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Debug\EditNote.baml
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Debug\MainWindow.baml
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Debug\NotePage.baml
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Debug\WpfApp1.g.resources
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Debug\WpfApp1.exe
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Debug\WpfApp1.pdb

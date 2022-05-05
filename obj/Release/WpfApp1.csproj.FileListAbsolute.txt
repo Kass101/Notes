@@ -1,0 +1,93 @@
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Release\dbnote.db
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Release\WpfApp1.exe.config
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Release\WpfApp1.exe
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Release\WpfApp1.pdb
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Release\EntityFramework.dll
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Release\System.Data.SQLite.dll
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Release\EntityFramework.xml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\bin\Release\System.Data.SQLite.xml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Release\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Release\AddNote.g.cs
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Release\EditNote.g.cs
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Release\MainWindow.g.cs
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Release\NotePage.g.cs
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Release\App.g.cs
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Release\WpfApp1_MarkupCompile.cache
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Release\WpfApp1_MarkupCompile.lref
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Release\AddNote.baml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Release\EditNote.baml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Release\MainWindow.baml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Release\NotePage.baml
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Release\WpfApp1.g.resources
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Release\WpfApp1.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Release\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Release\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Release\WpfApp1.csproj.CopyComplete
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Release\WpfApp1.exe
+C:\Users\Анастасия\Desktop\Notes\WpfApp1 (тип красиво)\obj\Release\WpfApp1.pdb
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Release\dbnote.db
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Release\WpfApp1.exe.config
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Release\WpfApp1.exe
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Release\WpfApp1.pdb
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Release\EntityFramework.dll
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Release\System.Data.SQLite.dll
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Release\EntityFramework.xml
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Анастасия\Desktop\Notes\Note\bin\Release\System.Data.SQLite.xml
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Release\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Release\AddNote.g.cs
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Release\EditNote.g.cs
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Release\MainWindow.g.cs
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Release\NotePage.g.cs
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Release\App.g.cs
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Release\WpfApp1_MarkupCompile.cache
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Release\WpfApp1_MarkupCompile.lref
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Release\AddNote.baml
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Release\EditNote.baml
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Release\MainWindow.baml
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Release\NotePage.baml
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Release\WpfApp1.g.resources
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Release\WpfApp1.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Release\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Release\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Release\WpfApp1.csproj.CopyComplete
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Release\WpfApp1.exe
+C:\Users\Анастасия\Desktop\Notes\Note\obj\Release\WpfApp1.pdb
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Release\dbnote.db
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Release\WpfApp1.exe.config
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Release\WpfApp1.exe
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Release\WpfApp1.pdb
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Release\EntityFramework.dll
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Release\System.Data.SQLite.dll
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Release\EntityFramework.xml
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Анастасия\Desktop\Notes\Note — копия\bin\Release\System.Data.SQLite.xml
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\AddNote.g.cs
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\EditNote.g.cs
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\MainWindow.g.cs
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\NotePage.g.cs
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\App.g.cs
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\WpfApp1_MarkupCompile.cache
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\WpfApp1_MarkupCompile.lref
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\AddNote.baml
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\EditNote.baml
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\MainWindow.baml
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\NotePage.baml
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\WpfApp1.g.resources
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\WpfApp1.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\WpfApp1.csproj.CopyComplete
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\WpfApp1.exe
+C:\Users\Анастасия\Desktop\Notes\Note — копия\obj\Release\WpfApp1.pdb
